@@ -1,5 +1,7 @@
+---
 layout: default
-title: Competition setting
+title: Competition
 nav_order: 3
 has_children: true
 permalink: /docs/Competition
+---
