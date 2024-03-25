@@ -3,6 +3,7 @@ description: A site which hopefully will load
 theme: just-the-docs
 
 url: https://eugeniazanazzo.github.io/IIHC
+color_scheme: iihc
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  IIHC on Github: https://github.com/eugeniazanazzo/IIHC
