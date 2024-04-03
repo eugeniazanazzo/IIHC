@@ -5,5 +5,7 @@ theme: just-the-docs
 url: https://eugeniazanazzo.github.io/IIHC
 color_scheme: iihc
 
+search_enabled: false
+
 aux_links:
   IIHC on Github: https://github.com/eugeniazanazzo/IIHC
